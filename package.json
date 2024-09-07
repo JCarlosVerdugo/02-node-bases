@@ -1,0 +1,12 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicación real de Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "echo 'Hola mundo desde dev'"
+  },
+  "author": "Carlos Verdugo",
+  "license": "ISC"
+}
